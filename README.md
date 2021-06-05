@@ -44,11 +44,13 @@ Comecei a trabalhar com TI durante a graduação em Geografia na área de Geopro
 ![Windows Badge](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 <br>
 <br>
+<br>
+<br>
+Obrigada pela visita!!! :yellow_heart: 
+<br>
+<br>
 -Contato:
 <br>
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/lsamsilva/)](https://www.linkedin.com/in/lsamsilva/)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/lsamsilva)](https://twitter.com/lsamsilva)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:leila.samsilva@gmail.com)](mailto:leila.samsilva@gmail.com)
-
-Obrigada pela visita!!! :yellow_heart: 
-
