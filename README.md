@@ -38,10 +38,13 @@ Comecei a trabalhar com TI durante a graduação em Geografia na área de Geopro
 ![Excel Badge](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 <br>
 -Sistemas Operacionais:
+<br>
 ![Ubuntu Badge](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Fedora Badge](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
 ![Windows Badge](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 <br>
+<br>
+-Contato:
 <br>
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/lsamsilva/)](https://www.linkedin.com/in/lsamsilva/)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/lsamsilva)](https://twitter.com/lsamsilva)
