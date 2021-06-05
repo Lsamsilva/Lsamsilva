@@ -23,7 +23,6 @@ Também sou Geógrafa formada pela Universidade de São Paulo.
 Comecei a trabalhar com TI durante a graduação em Geografia na área de Geoprocessamento. Esta experiência me deu ferramentas - além de me despertar muita curiosidade - para começar a pesquisar possibilidades dentro da imensidão da área de TI. Foi assim que cheguei ao Desenvolvimento de Softwares. 💻 🧠 💪
 
 
-_*Como me achar: *_
+_*Como me achar: *_ <br>
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lsamsilva/)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/lsamsilva)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](leila.samsilva@gmail.com)
