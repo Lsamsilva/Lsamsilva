@@ -22,4 +22,4 @@ Também sou Geógrafa formada pela Universidade de São Paulo.
 
 Comecei a trabalhar com TI durante a graduação em Geografia na área de Geoprocessamento. Esta experiência me deu ferramentas - além de me despertar muita curiosidade - para começar a pesquisar possibilidades dentro da imensidão da área de TI. Foi assim que cheguei ao Desenvolvimento de Softwares. 💻 🧠 💪
 
-[<img src="{https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white}" />](https://www.linkedin.com/in/lsamsilva/)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lsamsilva/)
